@@ -14,4 +14,4 @@ Requisitos a cumplir:
 
 ## Entrega
 
-[Informe de resultados]()
+[Informe de resultados](https://github.com/bri06/mod-ux/blob/master/practica-mod-ux.pdf)
